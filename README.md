@@ -1,25 +1,25 @@
-# Curso de Programación Nivel Achiever con Python 💻🐍
+# Curso de Programación Nivel Achiever con Python 💻 🐍
 
-Este curso está diseñado para introducir a los principiantes en el mundo de la programación utilizando Python. Desde los conceptos básicos hasta proyectos prácticos, este curso te llevará paso a paso a través de los fundamentos de la programación y te proporcionará las habilidades necesarias para empezar a desarrollar tus propios proyectos y aplicaciones.
+Este curso está diseñado para todos aquellos locos apasionados por la tecnología, que quieren aprender a crear y hacer sus propios proyectos de programación 💻 utilizando Python 🐍, el lenguaje de programación del futuro. Aprenderás a programar desde cero, desde los conceptos básicos, y pondremos en práctica todo lo aprendido a través de proyectos prácticos. Este curso te proporcionará las habilidades necesarias para empezar a desarrollar tus propios proyectos y aplicaciones, ¡desde ahora!
 
 ## Contenido del Curso
 
 El curso se divide en las siguientes secciones:
 
-1. Introducción 💻
+1. Introducción al curso 💻
 2. Codificación por bloques 🧱
 3. Codificación por texto con librería de dibujo: Turtle()🐢
 4. Variables, consola y tipos de datos
 5. Interacción con el usuario
 6. Condicionales en programación
 7. Ciclos en programación
-8. Almacenar información
-9. Optimización de código
+8. Almacenamiento de información
+9. Optimización de código con funciones
 10. Proyecto Final - Juego Robot Laberinto 🤖
 
 Cada sección contiene explicaciones detalladas, ejemplos de código y ejercicios prácticos para reforzar el aprendizaje.
 
-## Código y Notebooks
+## Notebooks Ilustrativos
 
 En este repositorio encontrarás todos los códigos y notebooks utilizados en el curso. Los notebooks de Google Colab son una excelente herramienta para seguir el curso de forma interactiva y ejecutar el código directamente en tu navegador.
 
