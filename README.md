@@ -5,6 +5,7 @@ Este curso está diseñado para introducir a los principiantes en el mundo de la
 ## Contenido del Curso
 
 El curso se divide en las siguientes secciones:
+
 1. Introducción 💻
 2. Codificación por bloques 🧱
 3. Codificación por texto con librería de dibujo: Turtle()🐢
