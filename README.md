@@ -4,17 +4,17 @@ Este curso está diseñado para introducir a los principiantes en el mundo de la
 
 ## Contenido del Curso
 
-1. El curso se divide en las siguientes secciones:
-2. Introducción 💻
-3. Codificación por bloques 🧱
-4. Codificación por texto con librería de dibujo: Turtle()🐢
-5. Variables, consola y tipos de datos
-6. Interacción con el usuario
-7. Condicionales en programación
-8. Ciclos en programación
-9. Almacenar información
-10. Optimización de código
-11. Proyecto Final - Juego Robot Laberinto 🤖
+El curso se divide en las siguientes secciones:
+1. Introducción 💻
+2. Codificación por bloques 🧱
+3. Codificación por texto con librería de dibujo: Turtle()🐢
+4. Variables, consola y tipos de datos
+5. Interacción con el usuario
+6. Condicionales en programación
+7. Ciclos en programación
+8. Almacenar información
+9. Optimización de código
+10. Proyecto Final - Juego Robot Laberinto 🤖
 
 Cada sección contiene explicaciones detalladas, ejemplos de código y ejercicios prácticos para reforzar el aprendizaje.
 
