@@ -10,11 +10,11 @@ El curso se divide en las siguientes secciones:
 2. Codificación por bloques 🧱
 3. Codificación por texto con librería de dibujo: Turtle()🐢
 4. Variables, consola y tipos de datos
-5. Interacción con el usuario
-6. Condicionales en programación
-7. Ciclos en programación
-8. Almacenamiento de información
-9. Optimización de código con funciones
+5. Interacción con el usuario 👨‍💻
+6. Condicionales en programación 🔹❓
+7. Ciclos en programación 🔄
+8. Almacenamiento de información 💾
+9. Optimización de código con funciones ⚙️
 10. Proyecto Final - Juego Robot Laberinto 🤖
 
 Cada sección contiene explicaciones detalladas, ejemplos de código y ejercicios prácticos para reforzar el aprendizaje.
