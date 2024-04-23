@@ -8,7 +8,7 @@ El curso se divide en las siguientes secciones:
 
 1. Introducción al curso 💻
 2. Codificación por bloques 🧱
-3. Codificación por texto con librería de dibujo: Turtle()🐢
+3. Codificación por texto con Turtle()🐢
 4. Variables, consola y tipos de datos
 5. Interacción con el usuario 👨‍💻
 6. Condicionales en programación 🔹❓
