@@ -1,4 +1,4 @@
-# Python Achievers: Desde cero a tu primer videojuego 🎮💻🐍
+# Python Achievers 🏆🐍: Desde cero a tu Primer Videojuego 🎮💻
 
 Este curso está diseñado para todos aquellos locos apasionados por la tecnología, que quieren aprender a crear y hacer sus propios proyectos de programación 💻 utilizando Python 🐍, el lenguaje de programación del futuro. Aprenderás a programar desde cero, desde los conceptos básicos, y pondremos en práctica todo lo aprendido a través de proyectos prácticos. Este curso te proporcionará las habilidades necesarias para empezar a desarrollar tus propios proyectos y aplicaciones, ¡desde ahora!
 
